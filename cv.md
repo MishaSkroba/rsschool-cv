@@ -32,57 +32,57 @@ And now I'm in the process of learning JS to improve my technical skills.
 ## Code example
 
 ```
-    <html>
+<html>
 
-    <body>
+<body>
 
-    <script>
-        alert( 'Hello, world!' );
-    </script>
+<script>
+alert( 'Hello, world!' );
+</script>
 
-    </body>
+</body>
 
-    </html>
+</html>
 ```
 
 ## Professional Experience
 
 ### HiQo-Solutions. March 2019 — present time
 
-        I've tested 14 projects. Among those projects were IoT, web and mobile developement projects.
-        On one of the projects I've led a team of two QA Engineers. I work in teams following Agile and
-        Kanban principles.
+I've tested 14 projects. Among those projects were IoT, web and mobile developement projects.
+On one of the projects I've led a team of two QA Engineers. I work in teams following Agile and
+Kanban principles.
 
 #### Responsibilities:
 
-        - Manual functional and non-functional testing (scenario, exploratory, ad-hoc) and
-        bug/defect/change request reporting
-        - Test documentation: test plan, test strategy, use cases, test cases and checklists, test reports and deployment analysis
-        - Test environment configuration and maintenance
-        - API testing
-        - Estimation of projects
-        - Requirements analysis and participation in their preparation
-        - QA beginner mentoring. Preparation of testing presentations for training new specialists
-        - Team managment
-        - Development of functional requirements with BAs
+- Manual functional and non-functional testing (scenario, exploratory, ad-hoc) and
+  bug/defect/change request reporting
+- Test documentation: test plan, test strategy, use cases, test cases and checklists, test reports and deployment analysis
+- Test environment configuration and maintenance
+- API testing
+- Estimation of projects
+- Requirements analysis and participation in their preparation
+- QA beginner mentoring. Preparation of testing presentations for training new specialists
+- Team managment
+- Development of functional requirements with BAs
 
 ### Yandex. October 2018 — January 2019
 
-        I tested services, like Yandex Webmaster, Yandex Zen, Yandex Pictures and some search engine features.
-        I worked in a team following Agile principles.
+I tested services, like Yandex Webmaster, Yandex Zen, Yandex Pictures and some search engine features.
+I worked in a team following Agile principles.
 
 #### Responsibilities:
 
-        - Manual functional and non-functional testing (scenario, exploratory, ad-hoc) and
-        bug/defect/change request reporting
-        - Test documentation: test plan, test strategy, use cases, test cases and check lists, test reports and deployment analysis
-        - Test environment configuration and maintenance
+- Manual functional and non-functional testing (scenario, exploratory, ad-hoc) and
+  bug/defect/change request reporting
+- Test documentation: test plan, test strategy, use cases, test cases and check lists, test reports and deployment analysis
+- Test environment configuration and maintenance
 
 ## Education
 
 ### QA Academy
 
-        Software Testing Basics course
+Software Testing Basics course
 
 ### Udemy (online)
 
