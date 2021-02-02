@@ -1,0 +1,21 @@
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.content {
+  width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: -webkit-pictograph;
+}
+
+.avatar {
+  width: 200px;
+  height: 240px;
+  border: solid 1px black;
+}
+
+.codeBlock {
+  background-color: gray;
+}
