@@ -1,13 +1,25 @@
-img {
-  width: 100%;
-  height: 100%;
+body {
+  width: 50%;
+  margin: auto;
+  font-family: sans-serif;
 }
 
-.content {
-  width: 750px;
-  margin-left: auto;
-  margin-right: auto;
-  font-family: -webkit-pictograph;
+address li {
+  list-style-type: none;
+  padding: 0px;
+  line-height: 1.5;
+}
+
+section {
+  margin-top: 10px;
+  border-top: 1px;
+  border-top: 1px solid lightgray;
+}
+
+header,
+footer {
+  padding: 10px;
+  background-color: lightgray;
 }
 
 .avatar {
@@ -16,6 +28,15 @@ img {
   border: solid 1px black;
 }
 
-.codeBlock {
-  background-color: gray;
+main {
+  padding: 10px;
+}
+
+footer li {
+  list-style-type: none;
+  line-height: 2.5;
+}
+
+.rssLogo {
+  width: 70px;
 }
