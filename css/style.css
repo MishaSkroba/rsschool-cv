@@ -6,8 +6,11 @@ body {
 
 address li {
   list-style-type: none;
-  padding: 0px;
   line-height: 1.5;
+}
+
+address ul {
+  padding: 0px;
 }
 
 section {
