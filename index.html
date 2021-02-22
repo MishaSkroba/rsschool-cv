@@ -8,23 +8,26 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <div class="content">
-    <div class="avatar">
-      <img src="img/myPhoto.jpg" alt="My photo">
-    </div>
+  <header>
+    <img class="avatar" src="img/avatar/myPhoto.jpg" alt="My photo">
     <h1>Mihail Skroba</h1>
-
-    <div class="contacts"> 
-      <a href="tel:375297312524">+375 (29) 731 25 24</a> | <a href="mailto:skroba.misha@gmail.com">skroba.misha@gmail.com</a> | <a href="https://www.linkedin.com/in/mihail-skroba/">www.linkedin.com/in/mihail-skroba/</a>
-    </div>
-    
-    <h2>About Me</h2>
-    I'm a QA specialist with 2+ years of hands-on expirience in product and outsource development.
-    Since 2018, I've tested 18 different projects, like IoT, web-based and mobile applications development.
-    And now I'm in the process of learning JS to improve my technical skills.
-
-    <h2>Skills</h2>
-
+    <address> 
+      <ul>
+        <li><a href="tel:375297312524">+375 (29) 731 25 24</a></li>
+        <li><a href="mailto:skroba.misha@gmail.com">skroba.misha@gmail.com</a></li>
+        <li><a href="https://www.linkedin.com/in/mihail-skroba/">www.linkedin.com/in/mihail-skroba/</a></li>
+      </ul>
+    </address>
+  </header>  
+  <main>  
+    <section>
+      <h2>About Me</h2>
+      <p>I'm a QA specialist with 2+ years of hands-on expirience in product and outsource development.
+      Since 2018, I've tested 18 different projects, like IoT, web-based and mobile applications development.
+      And now I'm in the process of learning JS to improve my technical skills.</p>
+    </section>
+    <section>
+      <h2>Skills</h2>
       <ul>
         <li>HTML, CSS</li>
         <li>JS</li>
@@ -36,16 +39,14 @@
         <li>API testing (Postman, Fiddler, JMeter)</li>
         <li>English level/B1</li>
       </ul>
-
-    <h2>Professional Experience</h2>
+    </section>
+    <section>
+      <h2>Experience</h2>
       <h3>HiQo-Solutions. March 2019 — present time</h3>
-
-      I've tested 14 projects. Among those projects were IoT, web and mobile developement projects.
+      <p>I've tested 14 projects. Among those projects were IoT, web and mobile developement projects.
       On one of the projects I've led a team of two QA Engineers. I work in teams following Agile and
-      Kanban principles.
-
+      Kanban principles.</p>
       <h4>Responsibilities:</h4>
-
       <ul>
         <li>Manual functional and non-functional testing (scenario, exploratory, ad-hoc) and bug/defect/change request reporting</li>
         <li>Test documentation: test plan, test strategy, use cases, test cases and checklists, test reports and deployment analysis</li>
@@ -57,29 +58,44 @@
         <li>Team managment</li>
         <li>Development of functional requirements with BAs</li>
       </ul>
-
       <h3>Yandex. October 2018 — January 2019</h3> 
-
-      I tested services, like Yandex Webmaster, Yandex Zen, Yandex Pictures and some search engine features.
-      I worked in a team following Agile principles.
-
-      <h4>Responsibilities:</h4> 
-
+      <p>I tested services, like Yandex Webmaster, Yandex Zen, Yandex Pictures and some search engine features.
+      I worked in a team following Agile principles.</p>
+      <h4>Responsibilities:</h4>
       <ul>
         <li>Manual functional and non-functional testing (scenario, exploratory, ad-hoc) and bug/defect/change request reporting</li>
         <li>Test documentation: test plan, test strategy, use cases, test cases and check lists, test reports and deployment analysis</li>
         <li>Test environment configuration and maintenance</li>
       </ul>
-
-    <h2>Education</h2>
-
-      <h3>QA Academy</h3> 
-
-        Software Testing Basics course
-
+    </section>
+    <section>
+      <h2>Education</h2>
+      <h3>QA Academy</h3>
+      <p>Software Testing Basics course</p>
       <h3>Udemy (online)</h3>
-        <a href="https://www.udemy.com/share/101Wy2BkYecVZXR34=/">HTML, CSS course</a><br>
-        <a href="https://www.udemy.com/share/101WCCBkYecVZXR34=/">JS course</a>
-  </div>
+      <a href="https://www.udemy.com/share/101Wy2BkYecVZXR34=/">HTML, CSS course</a><br>
+      <a href="https://www.udemy.com/share/101WCCBkYecVZXR34=/">JS course</a>
+    </section>
+    <section>
+      <h2>Code example</h2>
+      <p>(function(){
+      <br>"use strict";
+      <br>/* Start of your code */
+      <br>function greetMe(yourName) {
+      <br>alert('Hello ' + yourName);
+      <br>}
+      <br>
+      <br>greetMe('World');
+      <br>/* End of your code */
+      <br>})();</p>
+    </section>
+  </main>
+  <footer>
+    <ul>
+      <li><a href="https://github.com/MishaSkroba">My GitHub</a></li>
+      <li><a href="https://github.com/MishaSkroba"><img class="rssLogo" src="img/logo/rs_school_js.svg" alt="RSS logo"></a></li>
+      <li>Год создания: 2021</li>
+    </ul>
+  </footer>
 </body>
 </html>
